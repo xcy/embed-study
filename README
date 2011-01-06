@@ -1,6 +1,7 @@
 void main()
 {
 	printf("Hello,world!\n");
-	printf("Welcome to china!\n")
+	printf("Welcome to china!\n");
+	printf("Godd github!\n");
 	return 0;
 }
